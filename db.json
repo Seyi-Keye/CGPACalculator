@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "seyi",
+      "lastname": "keye",
+      "username": "seyikeye",
+      "address": "2 keye street",
+      "email": "keye",
+      "password": "keye",
+      "roleId": 1,
+      "createdAt": "2019-08-08",
+      "updatedAt": "2019-08-08"
+    },
+    {
+      "id": 2,
+      "firstname": "oluwas",
+      "lastname": "keye",
+      "username": "oluwaskeye",
+      "address": "2 oluwas street",
+      "email": "oluwas@gmail.com",
+      "password": "oluwas",
+      "roleId": 2,
+      "createdAt": "2019-08-08",
+      "updatedAt": "2019-08-08"
+    },
+    {
+      "id": 3,
+      "firstname": "lade",
+      "lastname": "keye",
+      "username": "ladekeye",
+      "address": "2 lade street",
+      "email": "lade@gmail.com",
+      "password": "lade",
+      "roleId": 2,
+      "createdAt": "2019-08-08",
+      "updatedAt": "2019-08-08"
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "title": "admin",
+      "createdAt": "2019-08-08",
+      "updatedAt": "2019-08-08"
+    },
+    {
+      "id": 2,
+      "title": "regular",
+      "createdAt": "2019-08-08",
+      "updatedAt": "2019-08-08"
+    }
+  ]
+}
