@@ -35,6 +35,82 @@
       "roleId": 2,
       "createdAt": "2019-08-08",
       "updatedAt": "2019-08-08"
+    },
+    {
+      "id": 4
+    },
+    {
+      "email": "oluwastt@gmail.com",
+      "id": 5
+    },
+    {
+      "email": "oluwastnt@gmail.com",
+      "roleId": 2,
+      "id": 6
+    },
+    {
+      "email": "oluwastnt@gmail.com",
+      "roleId": 2,
+      "createdAt": 1549761003998,
+      "id": 7
+    },
+    {
+      "email": "oluwastnt@gmail.com",
+      "roleId": 2,
+      "createdAt": 1549761197141,
+      "updatedAt": 1549761197141,
+      "id": 8
+    },
+    {
+      "email": "oluwastnt@gmail.com",
+      "roleId": 2,
+      "createdAt": 1549761277084,
+      "updatedAt": 1549761277084,
+      "id": 9
+    },
+    {
+      "email": "oluwasjtnt@gmail.com",
+      "roleId": 2,
+      "createdAt": 1549761359922,
+      "updatedAt": 1549761359922,
+      "id": 10
+    },
+    {
+      "email": "oluwasjtnt@gmail.com",
+      "roleId": 2,
+      "createdAt": 1549761364231,
+      "updatedAt": 1549761364231,
+      "id": 11
+    },
+    {
+      "email": "oluwasjtnt@gmail.com",
+      "roleId": 2,
+      "createdAt": 1549762069811,
+      "updatedAt": 1549762069811,
+      "id": 12
+    },
+    {
+      "email": "oluwasjtnt@gmail.com",
+      "roleId": 2,
+      "createdAt": 1549762117695,
+      "updatedAt": 1549762117695,
+      "id": 13
+    },
+    {
+      "email": "oluwasjtnt@gmail.com",
+      "roleId": 2,
+      "createdAt": 1549762186072,
+      "updatedAt": 1549762186072,
+      "id": 14
+    },
+    {
+      "email": "oluwaskjtnt@gmail.com",
+      "password": "$2b$08$Bfzw4gOkHVjNy9DXVc5uc.OAz1t8ipZPiJMXa7fwy9qNbzH5DHnmW",
+      "roleId": 2,
+      "createdAt": 1549819890883,
+      "updatedAt": 1549819890883,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsImlhdCI6MTU0OTgxOTg5MCwiZXhwIjoxNTQ5OTA2MjkwfQ.NeMWh6nr2Yzjk7Dv0uqgjuMD5-9FLRUqToVkMZP_AAg",
+      "id": 18
     }
   ],
   "roles": [
