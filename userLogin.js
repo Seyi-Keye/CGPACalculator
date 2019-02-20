@@ -36,7 +36,7 @@ module.exports = function userLogin(req,res) {
       }
       else {
         return res.status(404).json({
-          message: 'User not found'
+          message: 'Email or Password is incorrect'
         })
       }
   });

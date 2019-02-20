@@ -281,6 +281,87 @@
       "updatedAt": 1549988893810,
       "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsInVzZXJuYW1lIjoiVGFnIiwiaWF0IjoxNTQ5OTg4ODkzLCJleHAiOjE1NTAwNzUyOTN9.d4EjXSqksINP1GzprrAVvuRnKP01HQHrFaG3rYkD22Y",
       "id": 32
+    },
+    {
+      "email": "uu@a.com",
+      "password": "$2b$08$QRyYJP6jvHRuEJLghG9Nuu5esYNcdW/EQtwRG8pXPyWsP4QVHwadC",
+      "username": "uu",
+      "firstname": "uu",
+      "lastname": "uu",
+      "address": "uu",
+      "roleId": 2,
+      "createdAt": 1550500904900,
+      "updatedAt": 1550500904900,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsInVzZXJuYW1lIjoidXUiLCJpYXQiOjE1NTA1MDA5MDQsImV4cCI6MTU1MDU4NzMwNH0.mPYpXBxfn4jcjZ6DWpWY9E-4o-fwNgT5Sq8uDMozTh4",
+      "id": 33
+    },
+    {
+      "email": "seyimi@seyi.com",
+      "password": "seyimi",
+      "id": 34
+    },
+    {
+      "email": "seyimiti@seyi.com",
+      "password": "seyimito",
+      "id": 35
+    },
+    {
+      "email": "seyimit@seyi.com",
+      "password": "seyimit",
+      "id": 36
+    },
+    {
+      "email": "seyimitii@seyi.com",
+      "password": "seyimitii",
+      "id": 37
+    },
+    {
+      "email": "seyimitiij@seyi.com",
+      "password": "seyimitii",
+      "id": 38
+    },
+    {
+      "email": "seyimitiijnh@seyi.com",
+      "password": "seyimitii",
+      "id": 39
+    },
+    {
+      "email": "seyimitiijnh@seyi.com",
+      "password": "seyimitii",
+      "id": 40
+    },
+    {
+      "email": "seyimitiijnhjj@seyi.com",
+      "password": "seyimitii",
+      "id": 41
+    },
+    {
+      "email": "seyimitiijnhjjjjj@seyi.com",
+      "password": "seyimitii",
+      "id": 42
+    },
+    {
+      "email": "seyimitiijnhjjjj@seyi.com",
+      "password": "seyimitii",
+      "id": 43
+    },
+    {
+      "email": "seyimitiijnhjjjju@seyi.com",
+      "password": "$2b$08$OMTPPkTRLKyK0Rk1n1cl.eYzvQysem/RnR0QA8VxT7I4WX57m3RSC",
+      "roleId": 2,
+      "createdAt": 1550692466517,
+      "updatedAt": 1550692466517,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsImlhdCI6MTU1MDY5MjQ2NiwiZXhwIjoxNTUwNzc4ODY2fQ.DC8wij1MQtJtf1MHkiRMdQLCJc8AE1mEnlGYqZzQ7fw",
+      "id": 44
+    },
+    {
+      "email": "sejutii@seyi.com",
+      "password": "$2b$08$ftdAdtF8.p2KsGxmga28.ez3oJvokmZoz7df5Hz.6hMqy5dGadVHu",
+      "roleId": 2,
+      "createdAt": 1550692869929,
+      "updatedAt": 1550692869929,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsImlhdCI6MTU1MDY5Mjg2OSwiZXhwIjoxNTUwNzc5MjY5fQ.z4OE0TWwygaw500a_S4w0x415g_uHSXnFxTRsbMMrag",
+      "id": 45
     }
   ],
   "roles": [

@@ -6,7 +6,6 @@ const routes =  require('./routes.js')
 const customRoutes = require('./customRoutes')
 
 const port = parseInt(process.env.PORT, 10) || 3001;
-console.log(middlewares)
 server.use(middlewares)
 
 

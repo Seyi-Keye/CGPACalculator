@@ -1,14 +1,20 @@
-// checks the url and redirects to accurate middleware
-const {generateToken, hashPassword} =  require('./authenticate.js')
+const UserController = require('./UserController');
 
-// users routes
-module.exports = function routes(req,res) {
-  if(req.url === '/api/v1/users' && req.method === 'POST') {
-    req.body.roleId = 2;
-    req.body.createdAt = Date.now();
-    req.body.updatedAt = Date.now();
-    req.body.password = hashPassword(req.body.password)
-    const token = generateToken(req.body);
-    req.body.token = token;
+const userController = new UserController();
+
+// Intercepting routes
+module.exports = function routes(req,res, next) {
+  if (req.method === 'POST') {
+    switch (req.url) {
+      case '/api/v1/users':
+      userController.modifyCreateUser(req);
+        break;
+
+      default:
+        break;
+    }
   }
+  // else if (req.method === 'GET') {
+  // }
+
 }
