@@ -362,6 +362,103 @@
       "updatedAt": 1550692869929,
       "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsImlhdCI6MTU1MDY5Mjg2OSwiZXhwIjoxNTUwNzc5MjY5fQ.z4OE0TWwygaw500a_S4w0x415g_uHSXnFxTRsbMMrag",
       "id": 45
+    },
+    {
+      "email": "sejutiiy@seyi.com",
+      "password": "$2b$08$MdKfmxw6aGzXo01dZEXIcucoCf/xn4oHxzWagfb0z8kQxc.T12JrW",
+      "roleId": 2,
+      "createdAt": 1550702152754,
+      "updatedAt": 1550702152754,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsImlhdCI6MTU1MDcwMjE1MiwiZXhwIjoxNTUwNzg4NTUyfQ.zfSk3URKkRbHiH0vlOFc1iZkJLzBlIsItSmGspd_gmk",
+      "id": 46
+    },
+    {
+      "email": "ll@m",
+      "password": "$2b$08$sqB.mqZy6Ao23RY/W9AYSOfXif8ibs52pQMfaOLHqOuMOwPmqenoO",
+      "username": "Tag",
+      "roleId": 2,
+      "createdAt": 1550754522994,
+      "updatedAt": 1550754522995,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsInVzZXJuYW1lIjoiVGFnIiwiaWF0IjoxNTUwNzU0NTIzLCJleHAiOjE1NTA4NDA5MjN9.tVWA9teFekzAOC2AoICvq1TU7EQSpaLqnv3ThaINjsY",
+      "id": 47
+    },
+    {
+      "email": "aromokeyes2@gmail.com",
+      "password": "$2b$08$4HgLTYD6K4BdQnv5W6rwLeS0CRyUQ8Lrbh2/GH9uqNeRFEaA2U5RW",
+      "username": "Seyi_Keyz",
+      "roleId": 2,
+      "createdAt": 1550754575032,
+      "updatedAt": 1550754575032,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsInVzZXJuYW1lIjoiU2V5aV9LZXl6IiwiaWF0IjoxNTUwNzU0NTc1LCJleHAiOjE1NTA4NDA5NzV9.uipRlsLQHmKn0zukiIyIcgKkCUGKCbzypiJaSy-48Bs",
+      "id": 48
+    },
+    {
+      "email": "aromokeyes2@gmail.com",
+      "password": "$2b$08$CD0VjyzLLOU9/vkf1m6SzufIyPdmgStUFpKWS24Iw68iSx.QGFxj6",
+      "username": "Seyi_Keyz",
+      "roleId": 2,
+      "createdAt": 1550754585174,
+      "updatedAt": 1550754585174,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsInVzZXJuYW1lIjoiU2V5aV9LZXl6IiwiaWF0IjoxNTUwNzU0NTg1LCJleHAiOjE1NTA4NDA5ODV9.xt_MoOO6bGxxvGBY6ypw7LwWR39wq2wvLiyL07ukuMw",
+      "id": 49
+    },
+    {
+      "email": "keyes@gmail.com",
+      "password": "$2b$08$WzQePw9NCt/27WHixntDF.HMKoJaHgccCqOzkjmGUcnf3tzC/2i7m",
+      "username": "j",
+      "roleId": 2,
+      "createdAt": 1550759448382,
+      "updatedAt": 1550759448382,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsInVzZXJuYW1lIjoiaiIsImlhdCI6MTU1MDc1OTQ0OCwiZXhwIjoxNTUwODQ1ODQ4fQ.jylJPDmEAhRq0NJkBTxOV7HMgf7Fbad_JB3Wj2_mB1s",
+      "id": 50
+    },
+    {
+      "email": "dd@a.com",
+      "password": "$2b$08$3OsmW6XJhSfPgd.GUVymEeoTHQyN8SdCJqHKm9QBzpNgDwbwLS1Wi",
+      "username": "djddj",
+      "roleId": 2,
+      "createdAt": 1551655189408,
+      "updatedAt": 1551655189408,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsInVzZXJuYW1lIjoiZGpkZGoiLCJpYXQiOjE1NTE2NTUxODksImV4cCI6MTU1MTc0MTU4OX0.exm9CrwSJWCIi9GBuZLna_h4b3on0OyTgGAuZrV8_Jo",
+      "id": 51
+    },
+    {
+      "username": "Oluwaseyi",
+      "avatar": "https://lh6.googleusercontent.com/-bepF8RSgJ2g/AAAAAAAAAAI/AAAAAAAAAFI/p11290SeSGc/s96-c/photo.jpg",
+      "roleId": 2,
+      "createdAt": 1551700489086,
+      "updatedAt": 1551700489086,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsInVzZXJuYW1lIjoiT2x1d2FzZXlpIiwiaWF0IjoxNTUxNzAwNDg5LCJleHAiOjE1NTE3ODY4ODl9.0gMceXuKxsOumgWpmQTgQ7aHdHD6tWmsutIKx55kbZc",
+      "id": 53
+    },
+    {
+      "username": "Oluwaseyi",
+      "avatar": "https://lh6.googleusercontent.com/-bepF8RSgJ2g/AAAAAAAAAAI/AAAAAAAAAFI/p11290SeSGc/s96-c/photo.jpg",
+      "roleId": 2,
+      "createdAt": 1551700555796,
+      "updatedAt": 1551700555796,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsInVzZXJuYW1lIjoiT2x1d2FzZXlpIiwiaWF0IjoxNTUxNzAwNTU1LCJleHAiOjE1NTE3ODY5NTV9.YP2moFlE2Qmyi_jjIOTB7DpBhKlEZrXE2Hb0c-5RQvg",
+      "id": 54
+    },
+    {
+      "username": "Oluwaseyi",
+      "avatar": "https://lh6.googleusercontent.com/-bepF8RSgJ2g/AAAAAAAAAAI/AAAAAAAAAFI/p11290SeSGc/s96-c/photo.jpg",
+      "email": "oluwaseyi.aromokeye@andela.com",
+      "roleId": 2,
+      "createdAt": 1551700573636,
+      "updatedAt": 1551700573636,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsInVzZXJuYW1lIjoiT2x1d2FzZXlpIiwiaWF0IjoxNTUxNzAwNTczLCJleHAiOjE1NTE3ODY5NzN9.r5__Hka3WAH552BTfx96PBtCCoo5kQzKQGzGWkalbLc",
+      "id": 55
+    },
+    {
+      "email": "b@w.com",
+      "password": "$2b$08$ujeG5UqorBwKiHLzKO/shuMNHNcP1gZJ5OsZfVt6LvciJAMhBXVwW",
+      "username": "oreoluwa.aboluwarin@andela.com",
+      "roleId": 2,
+      "createdAt": 1551711316083,
+      "updatedAt": 1551711316083,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSb2xlSWQiOjIsInVzZXJuYW1lIjoib3Jlb2x1d2EuYWJvbHV3YXJpbkBhbmRlbGEuY29tIiwiaWF0IjoxNTUxNzExMzE2LCJleHAiOjE1NTE3OTc3MTZ9.U-Bm_U9jEHKQZt8d3wzoGoKaowcfJewZh0Kbe2-NkAI",
+      "id": 56
     }
   ],
   "roles": [

@@ -9,7 +9,7 @@ const port = parseInt(process.env.PORT, 10) || 3001;
 server.use(middlewares)
 
 
-// To handle POST, PUT and PATCH you need to use a body-parser
+// To handle POST, PUT  and PATCH you need to use a body-parser
 server.use(jsonServer.bodyParser)
 
 const customServer = customRoutes(server);

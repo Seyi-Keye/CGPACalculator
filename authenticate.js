@@ -24,5 +24,6 @@ function hashPassword(password) {
 }
 
 module.exports = {
-  generateToken, hashPassword
+  generateToken,
+  hashPassword
 }
